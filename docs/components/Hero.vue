@@ -2,7 +2,7 @@
     <div class="hero">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Howdy, I'm {{ name || "John Doe" }}.</h1>
+          <h1 class="title">Welcome to the blog of {{ name }}!</h1>
           <h2 class="subtitle">
             {{ subtitle }}
           </h2>

@@ -83,7 +83,7 @@ a {
 .media {
   width: 45%;
   height: 100%;
-  object-fit: cover;
+  object-fit:cover;
   object-position: center;
 }
 
